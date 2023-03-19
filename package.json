@@ -27,7 +27,7 @@
     "string"
   ],
   "publishConfig": {
-    "@arikato111:registry": "https://npm.pkg.github.com"
+    "arikato111:registry": "https://npm.pkg.github.com"
   },
   "license": "MIT"
 }
