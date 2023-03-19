@@ -16,7 +16,7 @@ yarn add char-random
 ## How to use
 
 ```js
-import randomChar from "char-random";
+import charRandom from "char-random";
 
-let char = randomChar()
+let char = charRandom()
 ```
