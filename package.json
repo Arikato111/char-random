@@ -1,5 +1,5 @@
 {
-  "name": "chars-random",
+  "name": "char-random",
   "version": "1.0.0",
   "description": "random string and number",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arikato111/chars-random.git"
+    "url": "git+https://github.com/Arikato111/char-random.git"
   },
   "author": "Nawasan Wisitsingkhon",
   "keywords": [
