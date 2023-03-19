@@ -1,4 +1,4 @@
-function randomChar(count = 1, useNumber = false){
+function charRandom(count = 1, useNumber = false){
     let textAll = []
     if (useNumber) {
    textAll  = [
@@ -28,4 +28,4 @@ textAll = [
   return char;
 }
 
-module.exports =  randomChar ;
+module.exports =  charRandom;

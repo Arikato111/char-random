@@ -1,4 +1,4 @@
-export default function randomChar(count: number = 1, useNumber:boolean = false): string {
+export default function charRandom(count: number = 1, useNumber:boolean = false): string {
     let textAll: string[] = []
     if (useNumber) {
    textAll  = [
