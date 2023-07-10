@@ -1,4 +1,4 @@
-type charRandomConfig = {
+export type charRandomConfig = {
   count?: number;
   allowNumber?: boolean;
   allowLowerCase?: boolean;

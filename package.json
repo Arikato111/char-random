@@ -1,6 +1,6 @@
 {
   "name": "char-random",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "random string and number",
   "main": "dist/index.js",
   "scripts": {

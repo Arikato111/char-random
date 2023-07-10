@@ -1,4 +1,4 @@
-# <p align="center"> char random </p>
+# <p align="center">char random</p>
 
 <p align="center">
     <img alt="Github License" src="https://img.shields.io/github/license/Arikato111/char-random" />
